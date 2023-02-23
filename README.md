@@ -1,3 +1,3 @@
-﻿# CSE-134B-Homework-3
+﻿# Triston Babers' Portfolio Website
  
-## Site currently hosted at [Netlify](https://soft-custard-576c33.netlify.app/#closeHamburger)
+## Site currently hosted on [GitHub](https://tristonbabers.github.io/)
