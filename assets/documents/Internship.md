@@ -14,4 +14,4 @@
 | Lumentum | Software Development Intern | San Jose, On-site | https://ucsd.joinhandshake.com/stu/jobs/7503183?ref=preview-header-click&search_id=503d30e6-72f3-4085-ae0b-0ac3a22e54a1
 | Trimble Maps | Software Engineer Intern | **Remote** | https://ucsd.joinhandshake.com/stu/jobs/7506656?ref=preview-header-click&search_id=503d30e6-72f3-4085-ae0b-0ac3a22e54a1
 | Intel | Undergraduate Internship | ??? | https://intel.wd1.myworkdayjobs.com/en-US/External/userHome
-| ServiceNow | Software Engineering Intern | Santa Clara | https://www.smartr.me/application-ats/8afdb75a-56fe-44bf-9242-ffe6bfb48525
+|~~ServiceNow~~ | ~~Software Engineering Intern~~ | Santa Clara | https://www.smartr.me/application-ats/8afdb75a-56fe-44bf-9242-ffe6bfb48525
